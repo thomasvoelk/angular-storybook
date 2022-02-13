@@ -149,4 +149,6 @@ fabric.properties
 
 storybook-static/
 
+documentation.json
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,angular,storybookjs
